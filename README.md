@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Emmanuel, a Software Engineer👋</h1>
+<h1 align="center">Hello! I'm Emmanuel, a Software Engineer Student!</h1>
 
 - 💡 passionate about learning and growing in software development  
 - 🎓 studying Software Engineering at **PUCPR** (5th semester)  
