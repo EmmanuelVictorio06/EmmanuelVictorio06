@@ -2,7 +2,7 @@
 
 - 💡 passionate about learning and growing in software development  
 - 🎓 studying Software Engineering at **PUCPR** (5th semester)  
-- 🎯 aiming to become an exceptional full-stack developer
+- 🎯 aiming to become an exceptional DevOps Engineer.
 - ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
